@@ -1,0 +1,15 @@
+pandas
+numpy
+streamlit
+plotly
+scikit-learn
+matplotlib
+seaborn
+openpyxl
+azure-storage-blob
+python-dotenv
+jupyter
+ipykernel
+requests
+setuptools
+wheel
