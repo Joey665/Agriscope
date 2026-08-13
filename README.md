@@ -64,7 +64,7 @@ agriscope/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/agriscope.git
+git clone https://github.com/Joey665/agriscope.git
 cd agriscope
 ```
 
@@ -98,13 +98,8 @@ AgriScope is deployed on Azure. For deployment, typical options include:
 
 ## Contact
 
-**Project Maintainer:** Your Name
-📧 Email: your.email@example.com
-🔗 GitHub: [@your-username](https://github.com/your-username)
-🔗 LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+**Project Maintainer:** Joseph Bright
+📧 Email: josephbright342@gmail.com
+🔗 GitHub: https://github.com/Joey665
 
 ---
-
-## License
-
-*(Add your license here — e.g. MIT, Apache 2.0 — or state "All rights reserved" if proprietary.)*
