@@ -92,7 +92,6 @@ AgriScope is deployed on Azure. For deployment, typical options include:
 - **Azure App Service** (recommended for Streamlit apps)
 - **Azure Container Instances** (if containerized with Docker)
 
-*(Add your specific deployment steps or link to a `DEPLOYMENT.md` here once finalized.)*
 
 ---
 
